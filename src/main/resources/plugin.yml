@@ -1,0 +1,6 @@
+name: TremorsBlockRegen
+version: '${project.version}'
+main: com.pro4d.tremorsblockregen.TremorsBlockRegen
+api-version: 1.18
+authors: [ Pro4D ]
+description: Regenerate blocks in WorldGuard region, very customizable
